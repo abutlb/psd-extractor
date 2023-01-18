@@ -1,6 +1,6 @@
 # psd-extractor
 a tool for extracting layers from psd files.
-
+(use virtual environment for better experince)
 # How:
 
  1. install the requirements..
