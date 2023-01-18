@@ -1,6 +1,8 @@
 from psd_tools import PSDImage
 import os
 
+if not os.path.exists("out"):
+    os.mkdir("out")
 
 files = os.listdir("in\\")
 i = 1
