@@ -3,7 +3,7 @@ a tool for extracting layers from psd files.
 
 # How:
 
- - [ ] install the requirements..
- - [ ]  put the psd files in the `in` folder
- - [ ] start the script
- - [ ] you get the extracted in the `out` folder
+ 1. install the requirements..
+ 2. put the psd files in the `in` folder
+ 3. start the script 
+ 4. you get the extracted in the `out` folder
